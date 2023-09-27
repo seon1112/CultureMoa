@@ -12,6 +12,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.MailConfig.java
 
 ### IntelliJ IDEA ###
 .idea
