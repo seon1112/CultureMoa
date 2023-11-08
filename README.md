@@ -1,4 +1,4 @@
-# 컬쳐모아
+# CultureMoa
 * 프로젝트 기간 : 2023.07.25. - 2023.08.18
 * [API 문서]()
 * [API진척도 & Postman Runner]()
