@@ -32,14 +32,19 @@
 ## 📙DB ERD
 <img width="531" alt="image" src="https://github.com/s0nnyday/CultureMoa/assets/135934401/32c99837-c69d-4fab-bb68-b95d2afbc5da">
 
-## 📕배포
-
 ## 📚사용된 도구
+<img width="995" alt="image" src="https://github.com/s0nnyday/CultureMoa/assets/135934401/6add0dd6-6118-487c-926c-7eadfebe1537">
 
 ## 💻개발자
 * [김경선](https://github.com/seon1112)
 * [손지민](https://github.com/s0nnyday)
 * [양태경](https://github.com/taetaekyung)
 
+## 웹 디자이너
+* 김소정
+* 이송
+
 ## 🏢회고 및 피드백
-배포까지 진행하지 못한 점이 아쉬웠습니다.
+* 배포까지 진행하지 못한 점이 아쉬웠습니다. 하지만 갑작스러운 인원 변동으로 인하여 적은 인원으로 프로젝트가 진행되었는데 그에 비해 만족스러운 결과였습니다.
+* 웹 디자이너와 개발자의 협업을 경험하는 좋은 기회였습니다.
+* 테스트 작성을 추가로 진행하면 좋을 듯 합니다.
